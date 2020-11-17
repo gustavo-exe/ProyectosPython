@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   
-    <img src="https://github.com/gustavo-exe/Waves/blob/develop/assets/Logo_Waves.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/gustavo-exe/Waves/develop/assets/Logo_Waves.png" alt="Logo" width="80" height="80">
   
 
   <h3 align="center">Best-README-Template</h3>
