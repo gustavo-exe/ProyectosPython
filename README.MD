@@ -45,7 +45,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-## Autores ✒️
+## Autores
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
